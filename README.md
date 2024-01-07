@@ -1,8 +1,5 @@
-# React + Vite
+# Movie Favorites
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Med inspiration från en uppgift i skolan har jag skapat en app där man kan söka efter filmer och betygsätta sina favoriter. Huvudfokuset med projektet var att användaren, inte bara ska kunna söka efter filmer, utan även kunna ha koll på vilka filmer de redan sett och hur bra de tyckte dessa var. Listan med filmer är hämtad från IMDBs API och appen är gjord i React med Styled Components
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![movie-favorites](https://github.com/juuliiaazz/movie-favorites/assets/92580700/23c23bd6-16da-466a-91e0-b481325cb101)
